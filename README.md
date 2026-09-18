@@ -11,4 +11,4 @@ Aplikasi ini dirancang untuk:
 1. Pastikan Python 3.x sudah terpasang di perangkat Anda.
 2. Unduh atau clone repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME_ANDA/sistem-panen-zeffanya.git](https://github.com/USERNAME_ANDA/sistem-panen-zeffanya.git)
+   git clone [https://github.com/byanzahra23/sistem-panen-zeffanya.git](https://github.com/byanzahra23/sistem-panen-zeffanya.git)
